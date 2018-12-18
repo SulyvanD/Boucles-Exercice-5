@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boucles-Exercice-5", "Boucles-Exercice-5\Boucles-Exercice-5.csproj", "{EAAFE97F-5037-4804-B3ED-03D82C03E3F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAAFE97F-5037-4804-B3ED-03D82C03E3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAFE97F-5037-4804-B3ED-03D82C03E3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAFE97F-5037-4804-B3ED-03D82C03E3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAFE97F-5037-4804-B3ED-03D82C03E3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE844766-D26E-48B8-8AD9-50C7F8E06558}
+	EndGlobalSection
+EndGlobal
